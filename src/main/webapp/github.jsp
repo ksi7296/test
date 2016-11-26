@@ -7,7 +7,7 @@
 <title></title> 
 </head>
 <body>
-<H1>Github 실습2</H1>
+<H1>Github 실습2 f라고</H1>
 </body>
 </html>
 
